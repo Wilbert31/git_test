@@ -5,3 +5,4 @@ Hello World!
 
 *This is my first Github repo by following tutorials about Git and Github. 
 *Practicing more about git commands
+*Trying the git command one more time.
